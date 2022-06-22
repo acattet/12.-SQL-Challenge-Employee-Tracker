@@ -184,6 +184,9 @@ const addDepartment = body => {
         return promptUser();
     });
 };
+
+
+//add role, add employee, and manage does not work
 //role data
 const addRole = body => {
    /* const sql = `INSERT INTO role (title)
